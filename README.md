@@ -1,1 +1,1 @@
-![Tampilan Aplikasi](galeri_askara/askara galeri.png at main · mnmariyanaa-star/galeri_askara)
+![Tampilan Aplikasi](https://github.com/mnmariyanaa-star/galeri_askara/blob/main/askara%20galeri.png)
